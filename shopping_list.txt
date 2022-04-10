@@ -3,3 +3,4 @@ milk x5
 eggs x10
 bacon x100	
 cheese x200
+chicken x 239
