@@ -1,5 +1,5 @@
 bread x3
 milk x5
 eggs x10
-ham x100	
+bacon x100	
 cheese x200
