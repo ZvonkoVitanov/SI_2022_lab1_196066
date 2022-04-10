@@ -1,5 +1,7 @@
 bread x3
 milk x17
 eggs x10
-ham x100	
-cheese x 1000
+bacon x100	
+cheese x200
+chicken x 239
+
